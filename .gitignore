@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.sock
+*.tmp
+*.swp
+*.swo
+docker-compose.override.yml
+
+# Data & generated files
+*.dat
+*.bin
+*.wav
+*.grc~
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+.cache/
+.config/
+.pki/
+.dbus/
+.gnuradio/
+.bash_history
+.ICEauthority
+.Xauthority
+.local/
